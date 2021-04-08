@@ -1,0 +1,8 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vminterview/code-challenge.git",
+  "author": "vminterview <victor.miclovich.interview@gmail.com>",
+  "license": "MIT"
+}
